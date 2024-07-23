@@ -1,0 +1,53 @@
+<div id="page">
+    <mat-card>
+        <mat-card-title>
+            <p>הרשמה</p>
+        </mat-card-title>
+        <mat-card-content>
+            <form [formGroup]="registerForm" (ngSubmit)="register()">
+
+                <mat-form-field appearance="outline">
+                    <mat-label>שם משתמש</mat-label>
+                    <input matInput placeholder="שם משתמש" formControlName="Name">
+                    <i matSuffix class="material-icons">person</i>
+                    <mat-error>
+                        <span *ngIf="registerForm.hasError('required', 'Name')">שדה זה חובה</span>
+                    </mat-error>
+                </mat-form-field><br />
+
+                <mat-form-field appearance="outline">
+                    <mat-label>סיסמא</mat-label>
+                    <input matInput placeholder="סיסמא" formControlName="Password"
+                        [type]="hide ? 'password' : 'text'">
+                    <button class="hide" type="button" matSuffix mat-icon-button (click)="hide = !hide"
+                        [attr.aria-label]="'Hide password'" aria-labelledby="hide" [attr.aria-pressed]="hide">
+                        <i class="material-icons icons">{{hide ? 'visibility_off' : 'visibility'}}</i>
+                    </button>
+                    <i matSuffix class="material-icons">vpn_key</i>
+                    <mat-error>
+                        <span *ngIf="registerForm.hasError('required', 'Password')">שדה זה חובה</span>
+                    </mat-error>
+                </mat-form-field><br />
+
+                <mat-form-field appearance="outline">
+                    <mat-label>אימות סיסמא</mat-label>
+                    <input matInput placeholder="אימות סיסמא" formControlName="userPassword1"
+                        [type]="hide ? 'password' : 'text'">
+                    <button class="hide" type="button" matSuffix mat-icon-button (click)="hide = !hide"
+                        [attr.aria-label]="'Hide password'" aria-labelledby="hide" [attr.aria-pressed]="hide">
+                        <i class="material-icons icons">{{hide ? 'visibility_off' : 'visibility'}}</i>
+                    </button>
+                    <i matSuffix class="material-icons">vpn_key</i>
+                    <mat-error>
+                        <span *ngIf="userPassword1?.invalid">{{getErrorPassword()}}</span>
+                    </mat-error>
+                </mat-form-field><br />
+
+
+                <div mat-dialog-actions>
+                    <button mat-raised-button type="submit" [disabled]="!registerForm.valid">הרשמה</button>
+                </div>
+            </form>
+        </mat-card-content>
+    </mat-card>
+</div>

@@ -1,0 +1,49 @@
+<div class="background">
+  <h1>שלום שרה</h1>
+    <div class="page">
+  <mat-form-field class="inputClass" appearance="fill">
+    <mat-label>בחרי מורה</mat-label>
+    <mat-select name="grade" [(ngModel)]="selectedTeacherId">
+      <mat-option *ngFor="let teacher of allTeachers"
+      (click)="getConsransPerTeacher()"
+      (change)="getConsransPerTeacher()"
+      [value]="teacher.id">
+        {{teacher.name}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  
+ 
+ <div *ngIf="allHouers.length>0 && allDays.length > 0" class="constrainsDiv">
+    <table class="table table-striped">
+      <div>
+      <thead>
+        <tr>
+          <th >
+        שעות
+           </th>
+          <th *ngFor="let day of allDays">
+           {{day.name}}
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+  
+        <tr *ngFor="let houer of allHouers let i =index" >
+          <th>{{houer.timeCoordination}}</th>
+                <td *ngFor="let day of allDays let j =index">
+
+                 <span class="v" *ngIf="this.chekDay(day.id, houer.id)">V</span>
+                 <span class="x" *ngIf="!this.chekDay(day.id, houer.id)">X</span>
+                  </td>
+      </tr>
+    
+      </tbody>
+    </div>
+    </table>
+    
+  </div>
+  
+  
+  </div>
+  </div>

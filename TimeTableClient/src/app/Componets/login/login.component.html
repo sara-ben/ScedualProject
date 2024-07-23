@@ -1,0 +1,54 @@
+<div class="page">
+    <!-- <div class="page1"> -->
+        <!-- <div id="page"> -->
+            <div class="main showLogin" *ngIf='connect'>
+                <h1>התחברות</h1>
+                <form [formGroup]="loginForm" (ngSubmit)="login()">
+
+                    <mat-form-field appearance="outline">
+                        <mat-label>שם משתמש</mat-label>
+                        <input class="form-control" matInput placeholder="שם משתמש" formControlName="userName">
+                        <i matSuffix class="material-icons icons">person</i>
+                        <mat-error>
+                            <span *ngIf="loginForm.hasError('required', 'userName')">שדה זה חובה</span>
+                        </mat-error>
+                    </mat-form-field><br />
+
+                    <mat-form-field appearance="outline">
+                        <mat-label>סיסמא</mat-label>
+                        <input class="form-control" class="input" matInput placeholder="סיסמא" formControlName="userPassword"
+                            [type]="hide ? 'password' : 'text'">
+                        <button class="hide" type="button" matSuffix mat-icon-button (click)="hide = !hide"
+                            [attr.aria-label]="'Hide password'" aria-labelledby="hide" [attr.aria-pressed]="hide">
+                            <i class="material-icons icons">{{hide ? 'visibility_off' : 'visibility'}}</i>
+                        </button>
+                        <i matSuffix class="material-icons icons">vpn_key</i>
+                        <mat-error>
+                            <span *ngIf="loginForm.hasError('required', 'userPassword')">שדה זה חובה</span>
+                        </mat-error>
+                    </mat-form-field><br />
+
+
+                    <div class="buttons" mat-dialog-actions>
+                        <button class="btn" mat-raised-button type="submit" [disabled]="!loginForm.valid">כניסה</button>
+                        <!-- <button class="btn" type="button" mat-raised-button (click)="openRegister()"> הרשמי כעת </button> -->
+
+                    </div>
+                    <!-- <div class="toRegister">
+                <button type="button" mat-raised-button (click)="openRegister()"> הרשם כעת </button>
+            </div> -->
+                </form>
+            </div>
+
+            <div class="toRegister" *ngIf="connect">
+                <button type="button" mat-raised-button (click)="openRegister()"> הרשמה </button>
+            </div>
+
+            <div class="toConnect" *ngIf="!connect">
+                <button type="button" mat-raised-button (click)="toSignIn()"> כניסה </button>
+            </div>
+
+        <!-- </div> -->
+    <!-- </div> -->
+    <app-register class="main showRegister" *ngIf="!connect"></app-register>
+</div>

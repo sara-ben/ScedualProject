@@ -1,0 +1,397 @@
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\project1\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.dev.json
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.genruntimeconfig.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.dev.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.genruntimeconfig.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.dev.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.genruntimeconfig.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.dev.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.genruntimeconfig.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.dev.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.genruntimeconfig.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.dev.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.genruntimeconfig.cache

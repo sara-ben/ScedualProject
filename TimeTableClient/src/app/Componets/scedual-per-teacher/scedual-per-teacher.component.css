@@ -1,0 +1,56 @@
+
+.background{
+    background-color: rgb(214, 223, 223);
+    min-height:100vh;
+    direction: ltr;
+
+}
+.scheduleDiv{
+    width: 80%;
+    margin: auto;
+    margin-top:10px;
+    align-items: center;
+}
+.page{
+    width: 80%;
+    height: 80vh;
+    margin: auto;
+    background-color:white;
+    border-radius: 25px;
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+    overflow-y: auto;
+    align-items: center;
+}
+.inputClass{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+h1{ 
+    text-align: left;
+    font-weight: bold;
+    color:#99314d ;
+    direction: rtl;
+    margin-left: 90%;
+}
+table, thead, th{
+    text-align: right;
+    direction: rtl;
+}
+td, th{
+    min-height: 12px;
+    min-width: 125px;
+}
+.table{
+    display: block;
+    margin: 0 auto;
+    width:70%;
+}
+th{
+    color:#99314d ;
+}
+
+
+.red{
+    color:rgb(3, 3, 53);
+    font-size: large;
+}

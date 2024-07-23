@@ -1,0 +1,66 @@
+
+
+
+
+
+  <div class="background">
+    <h1>שלום שרה</h1>
+    <div class="page">
+  <mat-form-field class="inputClass" appearance="fill">
+    <mat-label>בחרי כיתה</mat-label>
+    <mat-select name="grade" [(ngModel)]="selectedGradeName">
+      <mat-option *ngFor="let class of allGrades"
+       (click)="getSchedulePerClass()"
+      (change)="getSchedulePerClass()"
+      [value]="class.name">
+        {{class.name}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  
+ 
+  <div *ngIf="scedualPerGrade.length>0 && isScedualPerGradeSorted==true && isEditableUpdated==true" class="scheduleDiv">
+    <table class="table table-striped">
+      <div>
+      <thead>
+        <tr>
+          <th > שעות </th>
+          <th *ngFor="let day of allDays">
+           {{day.name}}
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+  
+        <tr *ngFor="let houer of allHouers let i =index" >
+          <th>{{houer.timeCoordination}}</th>
+                <td *ngFor="let day of allDays let j =index">
+                  <span *ngIf="scedualPerGrade[(j)*11+i].teacherName==='הפסקה' || scedualPerGrade[(j)*11+i].teacherName==='תפילה' || scedualPerGrade[(j)*11+i].teacherName==='---'">{{scedualPerGrade[(j)*11+i].teacherName}}</span>
+                  <mat-form-field *ngIf="scedualPerGrade[(j)*11+i].teacherName!='הפסקה' && scedualPerGrade[(j)*11+i].teacherName!='תפילה' && scedualPerGrade[(j)*11+i].teacherName!='---'" class="matFormField example-form-field">
+                    <mat-select matInput type="text" [(ngModel)]="scedualPerGrade[(j)*11+i].teacherName==scedualPerGradeMakor[(j)*11+i].teacherName?scedualPerGrade[(j)*11+i].teacherName:scedualPerGradeMakor[(j)*11+i].teacherName">
+                      <mat-option *ngFor="let teacher of allTeachers"
+                      (click)="checkResult(scedualPerGrade[(j)*11+i], teacher )"
+                     (change)="checkResult(scedualPerGrade[(j)*11+i], teacher)"
+                     [value]="teacher.name">
+                       {{teacher.name}}
+                     </mat-option>
+                    </mat-select>
+                  </mat-form-field>
+                  </td>
+      </tr>
+    
+      </tbody>
+    </div>
+    </table>
+    <button class="btn btnChekScedualPerClass" (click)="ChekScedualPerClass(this.selectedGrade)" mat-raised-button color="primary">בדיקת המערכת עבור הכיתה {{this.selectedGrade.name}}</button>
+
+  </div>
+  
+  
+  </div>
+  <div class="buttons">
+    <!-- <button (click)="ChekScedualPerClass(this.selectedGrade)" class="btn btn2" mat-raised-button color="primary">בדיקת המערכת עבור הכיתה {{this.selectedGrade.name}}</button> -->
+  <button (click)="checkTheScedual()" class="btn btn1" mat-stroked-button color="primary">בדיקה</button>
+  <button (click)="saveScedual()" class="btn btn2" mat-raised-button color="primary">שמירה</button>
+</div>
+  </div>

@@ -1,0 +1,44 @@
+<div class="background">
+  <div class="row"><h1>שלום שרה</h1>
+</div>
+  <div class="page">
+<mat-form-field class="inputClass" appearance="fill">
+  <mat-label>בחרי כיתה</mat-label>
+  <mat-select name="grade" [(ngModel)]="selectedGradeName">
+    <mat-option *ngFor="let class of allGrades"
+     (click)="getSchedulePerClass()"
+    (change)="getSchedulePerClass()"
+    [value]="class.name">
+      {{class.name}}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+<div *ngIf="scedualPerGrade.length>0 && isScedualPerGradeSorted==true" class="scheduleDiv">
+  <table class="table table-striped">
+    <div>
+    <thead>
+      <tr>
+        <th >  שעות </th>
+        <th *ngFor="let day of allDays">
+         {{day.name}}
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <tr *ngFor="let houer of allHouers let i =index" >
+        <th>{{houer.timeCoordination}}</th>
+              <td *ngFor="let day of allDays let j =index">
+                <span>{{ this.chekResult(day.id, houer.id)}}</span>
+              </td>
+    </tr>
+  
+    </tbody>
+  </div>
+  </table>
+  
+</div>
+
+
+</div>
+</div>

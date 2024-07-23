@@ -1,0 +1,49 @@
+ <!-- <mat-tab-group flex="1" vertical>
+    <mat-tab label="דף הבית"> <app-schedule></app-schedule> </mat-tab>
+    <mat-tab label="עריכת המערכת"> <app-edit-schedual></app-edit-schedual> </mat-tab>
+    <mat-tab label="מערכת אילוצים"> <app-all-constrains></app-all-constrains> </mat-tab>
+    <mat-tab label="טיוטה"> Content 3 </mat-tab>
+    <mat-tab label="מערכת למורה"> <app-scedual-per-teacher></app-scedual-per-teacher> </mat-tab> -->
+  <div class="background">
+    <img class="pic"  src="../../../assets/logo.jpg">
+  <mat-tab-group [@.disabled]="true" >
+    <mat-tab>
+        <ng-template mat-tab-label>
+            <mat-icon>home</mat-icon>
+            <mat-label>דף הבית</mat-label>
+        </ng-template>
+        <div><app-schedule></app-schedule></div>
+    </mat-tab>
+    <mat-tab>
+        <ng-template mat-tab-label>
+            <mat-icon>edit</mat-icon>
+            <mat-label>עריכת המערכת</mat-label>
+        </ng-template>
+        <app-edit-schedual></app-edit-schedual>
+    </mat-tab>
+    <mat-tab>
+        <ng-template mat-tab-label>
+            <mat-icon>calendar_month</mat-icon>
+<mat-label>מערכת אילוצים</mat-label>
+        </ng-template>
+        <app-all-constrains></app-all-constrains>
+    </mat-tab>
+    <!-- <mat-tab>
+      <ng-template mat-tab-label>
+       <mat-icon> edit_document </mat-icon> 
+       טיוטה
+      </ng-template>
+sara 
+</mat-tab> -->
+
+<mat-tab>
+  <ng-template mat-tab-label>
+    <span class="material-icons">
+      access_time
+    </span>
+      <mat-label>מערכת למורה </mat-label>
+  </ng-template>
+  <app-scedual-per-teacher></app-scedual-per-teacher>  
+</mat-tab>
+</mat-tab-group>
+</div>

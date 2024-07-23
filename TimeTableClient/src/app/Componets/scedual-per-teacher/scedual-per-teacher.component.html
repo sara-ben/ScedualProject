@@ -1,0 +1,48 @@
+
+<div class="background">
+    <h1>שלום ל</h1>
+    <div class="page">
+  <mat-form-field class="inputClass" appearance="fill">
+    <mat-label>בחרי מורה</mat-label>
+    <mat-select name="grade" [(ngModel)]="idSelectedTeacher">
+      <mat-option *ngFor="let teacher of allTeachers"
+      (click)="getResultPerTeacher()"
+      (change)="getResultPerTeacher()"
+      [value]="teacher.id">
+        {{teacher.name}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  
+ 
+ <div *ngIf="allHouers.length>0 && allDays.length > 0" class="scedualPerTeacherDiv">
+    <table class="table table-striped">
+      <div>
+      <thead>
+        <tr>
+          <th >
+        שעות
+           </th>
+          <th *ngFor="let day of allDays">
+           {{day.name}}
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+  
+        <tr *ngFor="let houer of allHouers let i =index" >
+          <th>{{houer.timeCoordination}}</th>
+                <td *ngFor="let day of allDays let j =index">
+                  <span class="red">{{this.chekResult(day.id, houer.id)}}</span>
+                 
+      </tr>
+    
+      </tbody>
+    </div>
+    </table>
+    
+  </div>
+  
+  
+  </div>
+  </div>

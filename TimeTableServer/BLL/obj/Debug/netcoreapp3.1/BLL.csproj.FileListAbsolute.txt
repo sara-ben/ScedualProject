@@ -1,0 +1,78 @@
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\project1\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.genruntimeconfig.cache
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.genruntimeconfig.cache
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\TimeTableProject-main\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\גיבויים לפרויקט מערכת\26-01-23\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.genruntimeconfig.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\scedaualProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.genruntimeconfig.cache
